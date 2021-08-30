@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Quicksand';
+  src: url(./fonts/Quicksand-Light.ttf);
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 300;
+  src: url(./fonts/Quicksand-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-weight: 700;
+  src: url(./fonts/Quicksand-Bold.ttf);
+}
+
+h1{
+  font-family: 'Quicksand';
+  font-weight: 300;
+}
+
+p{
+  font-family: 'Quicksand';
+  font-weight: 700;
+}
